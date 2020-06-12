@@ -4,7 +4,7 @@ using System.Data;
 using System.Xml;
 using System.Configuration;
 
-namespace ListViewDragDropManagerDemo
+namespace DesktopApp
 {
 	/// <summary>
 	/// Interaction logic for App.xaml

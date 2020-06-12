@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ListViewDragDropManagerDemo.Properties {
+namespace DesktopApp.Properties {
     using System;
     
     
